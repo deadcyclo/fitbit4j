@@ -1,3 +1,11 @@
+# Fork #
+
+This is intended fitbit stopped publishing their maven repository to github at snapshot 25, leaving their repo in a broken state.
+
+Snapshots of fitbit4j will be published to http://nexus.vanntett.net:8081/content/repositories/fitbit/ starting with snapshot 26 (since everything before this is broken).
+
+This repository will be synced and new snapshots published if fitit updates fitbit4j any time in the future.
+
 # Fitbit4J #
 
 This repository hosts the public Fitbit Java Client API and Examples project.

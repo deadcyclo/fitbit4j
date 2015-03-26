@@ -75,19 +75,9 @@
     </dependencies>
 
     <distributionManagement>
-        <repository>
-            <id>gh-pages-release</id>
-	    <url>file:///${basedir}/../../../../fitbit4j-pages/release/</url>
-        </repository>
         <snapshotRepository>
-            <id>gh-pages-snapshot</id>
-	    <url>file:///${basedir}/../../../../fitbit4j-pages/snapshot/</url>
+            <id>fitbit</id>
+	    <url>http://nexus.vanntett.net:8081/content/repositories/fitbit</url>
         </snapshotRepository>
     </distributionManagement>
-
-    <scm>
-        <url>http://github.com/Fitbit/fitbit4j</url>
-        <connection>scm:git:git://github.com/Fitbit/fitbit4j.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/Fitbit/fitbit4j.git</developerConnection>
-    </scm>
 </project>
