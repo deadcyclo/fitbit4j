@@ -75,9 +75,9 @@
     </dependencies>
 
     <distributionManagement>
-        <snapshotRepository>
+        <repository>
             <id>fitbit</id>
 	    <url>http://nexus.vanntett.net:8081/content/repositories/fitbit</url>
-        </snapshotRepository>
+        </repository>
     </distributionManagement>
 </project>
