@@ -44,7 +44,7 @@
         <distributionManagement>
         <repository>
             <id>fitbit</id>
-	    <url>http://nexus.vanntett.net:8081/content/repositories/fitbit</url>
+	    <url>https://nexus.vanntett.net/content/repositories/fitbit</url>
         </repository>
     </distributionManagement>
 </project>
