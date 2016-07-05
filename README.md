@@ -1,3 +1,7 @@
+# DEPRECATED - DON'T USE THIS #
+
+Fitbit has decided to remove oauth 1 support soon, and this library will stop working. PLEASE DON'T USE IT!
+
 # Fork #
 
 This is intended fitbit stopped publishing their maven repository to github at snapshot 25, leaving their repo in a broken state.
